@@ -84,7 +84,7 @@ O modelo Random Forest treinado deve alcançar:
 
 ## 🎥 Vídeo de Apresentação
 
-----
+[----](https://www.youtube.com/watch?v=09lN0dUWls0)
 
 O vídeo demonstra:
 - Execução do notebook passo a passo
